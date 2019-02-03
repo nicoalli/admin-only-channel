@@ -1,0 +1,22 @@
+{
+  "name": "admin-only-channel",
+  "version": "1.0.0",
+  "description": "Slack bot to allow only admins to post, will delete non-admin messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoalli/admin-only-channel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoalli/admin-only-channel/issues"
+  },
+  "homepage": "https://github.com/nicoalli/admin-only-channel#readme",
+  "dependencies": {
+    "@slack/client": "^4.8.0"
+  }
+}
