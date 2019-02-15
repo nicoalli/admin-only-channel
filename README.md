@@ -14,7 +14,7 @@ This is ideal for "read-only" channels such as announcement channels where only 
 5. Clone and push this repo to heroku
 6. Add the following config vars to heroku
 
-ADMIN_USERS - comma separated list of user IDs
-ADMIN_CHANNELS - comma separated list of channel IDs
-BOT_TOKEN - bot authorization token of slack app
+ADMIN_USERS - comma separated list of user IDs  
+ADMIN_CHANNELS - comma separated list of channel IDs  
+BOT_TOKEN - bot authorization token of slack app  
 OAUTH_TOKEN - oauth token of slack app
